@@ -43,4 +43,18 @@ border-radius: 15px;
 }
 .wrapper{
   display: inline-block;
+  border: solid;
+  border-radius: 3px;
+  border-color: hotpink;
+}
+header{
+  background-color: honeydew;
+  font-size: 2em;
+  color: white;
+}
+h1{
+  background-color: lightgreen;
+}
+h2{
+  background-color: lightyellow;
 }
