@@ -1,0 +1,46 @@
+body{
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: row;/column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-position: center;
+}
+.buttons{
+  background-color: cyan;
+  margin: 1em;
+  padding: 2em;
+  font-size: 2em;
+  color: white;
+}
+.circle{
+background-color: aliceblue;
+border: 3px;
+padding: 2.5em;
+border-color: hotpink;
+border-style: solid;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
+.temp{
+background-color: aliceblue;
+border: 3px;
+padding: 2.5em;
+border-color: crimson;
+border-style: solid;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
+.recht{
+  background-color: aliceblue;
+  border: 3px;
+  padding: 2.5em;
+  border-color: lime;
+  border-style: solid;
+  -moz-border-radius: 15px;
+border-radius: 15px;
+}
+.wrapper{
+  display: inline-block;
+}
